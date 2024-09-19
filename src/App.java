@@ -7,7 +7,7 @@ public class App {
     }
     public static void ReadeStudents(){
         ArrayList<String>  students = new ArrayList<>();
-        students.add("Fatima");
+        students.add("Dana");
         students.add("Noor");
         students.add("Zainab");
         students.add("Naba");
